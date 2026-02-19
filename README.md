@@ -129,6 +129,5 @@ Rolling baseline deviation flags traffic "incidents".
 
 ## 👤 Author
 
-Your Name\
-LinkedIn: Your LinkedIn URL\
+Surinder singh chhabra
 GitHub: https://github.com/arrowguy234
