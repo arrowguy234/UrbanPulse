@@ -4,7 +4,7 @@ UrbanPulse is a live, end-to-end traffic analytics platform that
 transforms raw spatiotemporal traffic signals into operational insights
 for city-level decision making.
 
-🔗 **Live Demo:** https://YOUR-STREAMLIT-LINK.streamlit.app\
+🔗 **Live Demo:** https://urbanpulse-mtykpucaj4znh9vj8wg4zc.streamlit.app
 💻 **GitHub Repo:** https://github.com/arrowguy234/UrbanPulse
 
 ------------------------------------------------------------------------
