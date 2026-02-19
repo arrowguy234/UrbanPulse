@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+*.db
+
+# Notebook checkpoints
+*.ipynb_checkpoints
+
+# Large files
+*.sqlite
+
